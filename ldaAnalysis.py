@@ -1,3 +1,6 @@
+#/user/bin/python
+#author:wangkun
+#time : 2020/4/26
 import os
 import matplotlib as mpl
 import matplotlib.pyplot as plt
